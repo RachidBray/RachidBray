@@ -1,6 +1,12 @@
 # WordPress Developer · Theme Author · AI Automation
-I build WordPress websites and design AI-powered automations for businesses that want things done right, not just done fast.<br><br>I run AddictedToWeb.com, a one-person operation by design. No agency overhead, no middlemen, just direct, senior-level work, based in Casablanca with clients worldwide. My focus is helping businesses work smarter online, better systems, less manual work, more time for what actually matters.<br><br>On the WordPress side: I build custom, easy-to-manage sites and themes that are reliable, flexible, and built to last. I also developed Listimia, a commercial WordPress theme, and ran the full support operation behind it: Zendesk ticketing, 2,500+ tickets resolved, and a public knowledge base I authored myself. I've debugged real issues across hundreds of environments, PHP conflicts, CSS specificity, page builder compatibility...etc<br><br>On the AI side: I help businesses automate repetitive tasks, connect their tools, and streamline workflows, with practical AI features designed around how your business actually operates.<br><br>I also work white-label with agencies who need a reliable technical partner behind the scenes. You keep the client. I do the work.
-
+I run AddictedToWeb.com as a one-person operation by design. No layers, no handoffs, just direct, senior-level execution. Based in Casablanca, working with clients worldwide, I build WordPress products for businesses that care about doing things properly, not just quickly.<br><br>
+I specialize in custom WordPress development, delivering code that is clean, maintainable, and built to last. I'm also the creator of Listimia, a commercial WordPress theme with 1,100+ sales, where I handle the full lifecycle: development, maintenance, and support.
+<br><br>
+I manage customer support through Zendesk, resolving 2,500+ tickets and maintaining a public knowledge base built from scratch. This gives me deep exposure to real-world issues across hundreds of environments, including PHP conflicts, plugin compatibility, CSS specificity, and page builder edge cases.
+<br><br>
+Alongside that, I build and explore AI automation workflows (internal / R&D) to streamline repetitive tasks and improve efficiency.
+<br><br>
+I work with agencies and businesses as a dependable technical partner, taking ownership of delivery and supporting white-label collaborations behind the scenes.
 
 ## Socials:
 [![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/rachidbraymi) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/rachidbraymi) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/racbra) [![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/239453) 
