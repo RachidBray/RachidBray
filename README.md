@@ -1,4 +1,4 @@
-# WordPress Developer & Consultant · Theme Author · I build, ship, and support WordPress products end-to-end
+# WordPress Developer & Consultant · Theme Author
 I run AddictedToWeb.com as a one-person operation by design. No layers, no handoffs, just direct, senior-level execution. Based in Casablanca, working with clients worldwide, I build WordPress products for businesses that care about doing things properly, not just quickly.<br><br>
 I specialize in custom WordPress development, delivering code that is clean, maintainable, and built to last. I'm also the creator of Listimia, a commercial WordPress theme with 1,100+ sales, where I handle the full lifecycle: development, maintenance, and support.
 <br><br>
