@@ -4,8 +4,6 @@ I specialize in custom WordPress development, delivering code that is clean, mai
 <br><br>
 I manage customer support through Zendesk, resolving 2,500+ tickets and maintaining a public knowledge base built from scratch. This gives me deep exposure to real-world issues across hundreds of environments, including PHP conflicts, plugin compatibility, CSS specificity, and page builder edge cases.
 <br><br>
-Alongside that, I build and explore AI automation workflows (internal / R&D) to streamline repetitive tasks and improve efficiency.
-<br><br>
 I work with agencies and businesses as a dependable technical partner, taking ownership of delivery and supporting white-label collaborations behind the scenes.
 
 ## Socials:
